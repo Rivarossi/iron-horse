@@ -8,7 +8,7 @@ def main(roster_id):
         base_numeric_id=13990,
         name="Zebedee",
         role="super_heavy_express",
-        role_child_branch_num=-3,  # it's a joker, tried it as super heavy express 1, the power progression and dates are all wrong for that
+        role_child_branch_num=-4,  # it's a joker, tried it as super heavy express 1, the power progression and dates are all wrong for that
         power_by_power_source={
             "AC": 4000,
         },

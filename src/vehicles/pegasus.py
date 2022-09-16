@@ -8,7 +8,7 @@ def main(roster_id):
         base_numeric_id=300,
         name="2-8-2 Pegasus",
         role="super_heavy_express",
-        role_child_branch_num=1,
+        role_child_branch_num=2,
         power_by_power_source={
             "STEAM": 2300,
         },
